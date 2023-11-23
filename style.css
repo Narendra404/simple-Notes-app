@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  #noteInput {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #noteList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .noteItem {
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    padding: 10px;
+  }
+  
+  .noteActions {
+    margin-top: 5px;
+  }
+  
+  .sortOptions {
+    margin-top: 10px;
+  }
+  
